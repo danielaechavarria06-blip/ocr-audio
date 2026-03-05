@@ -43,8 +43,9 @@ remove_files(7)
 
 
 
-st.title("Reconocimiento Óptico de Caracteres")
+st.title("Lectura de imagen en caso de emergencia")
 st.subheader("Elige la fuente de la imágen, esta puede venir de la cámara o cargando un archivo")
+st.subheader("No seas tan exigente con el resultado no ves que es gratis")
 
 cam_ = st.checkbox("Usar Cámara")
 
